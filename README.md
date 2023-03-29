@@ -10,9 +10,9 @@ Individual values are separated by spaces (whitespaces).
 Exchample:
 
 2 3
-76 98 -31
-30 30 32
+4 5 3
+4 2 88
 -
 2 3
-89 25 38
-1 -32 -38
+43 5 2
+15 32 7
